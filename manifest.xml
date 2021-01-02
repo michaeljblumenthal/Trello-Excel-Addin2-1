@@ -2,9 +2,9 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>1964f5b3-7f9e-44b4-90d6-3d54e36b8ecf</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Contoso</ProviderName>
+  <ProviderName>Trello-Excel-Addin2-1</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Trello-Excel-Addin2"/>
+  <DisplayName DefaultValue="Trello-Excel-Addin2-1"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://michaeljblumenthal.github.io/Trello-Excel-Addin2-1/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://michaeljblumenthal.github.io/Trello-Excel-Addin2-1/assets/icon-64.png"/>
